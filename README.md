@@ -1,9 +1,6 @@
-# My first mod
+Adds a new secondary ability to the character, Artificer from the video game Risk of Rain 2.
 
-Description.
+### Nanosun
+Ignite. Charge up a lingering nano-sun that deals 400%-2400% damage.
 
-## Changelog
-
-**1.0.0**
-
-* Release of my first mod.
+The ability launches a sphere that continuously damages in an area around it. Created from existing game assets.
